@@ -1,5 +1,6 @@
-testDjango
+Hellow World
 ==========
 
 初めてのGitHub。テスト用のページだよ！
-radmeファイルにコメントを追加してみたよ！
+readmeファイルにコメントを追加してみたよ！
+readmeファイルのスペルに間違いがあったよ…
